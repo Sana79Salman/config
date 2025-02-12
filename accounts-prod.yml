@@ -5,7 +5,7 @@ accounts:
   message: "Hello from Accounts Service PROD APIs"
   contactDetails:
     name: "Sana Fondu - Product Owner"
-    email: "abc@xyz.com"
+    email: "{cipher}5c724ae5dbfe4262e1fdb970f5a9ab031e8ad4b0b44b9e0c9edcffc370a5d88a"
   onCallSupport:
     - (999) 888-7777
     - (11111) 222-6789
