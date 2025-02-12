@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hello form Cards Service Main config file"
+  contactDetails:
+    name: "Sana Fondu"
+    address: "SWadi"
+  onCallSupport:
+    - (0123) 1234-56789
+    - (06789) 1234-9876

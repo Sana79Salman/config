@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hello from Loan service main application.yml"
+  contactDetails:
+    name: "sana fondu"
+    email: "sana.fondu@loan.com"
+  onCallSupport:
+    - (0123) 8529-6314
+    -  (0147) 8529-7418

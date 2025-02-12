@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Hello from Accounts Service QA APIs"
+  contactDetails:
+    name: "Sana Fondu - QA Lead"
+    email: "abc@account_qa.com"
+  onCallSupport:
+    - (999) 888-8888
+    - (11111) 222-2356

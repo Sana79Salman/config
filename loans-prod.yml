@@ -1,0 +1,10 @@
+build:
+  version: "1.2"
+loans:
+  message: "Hello from Loans Service Prod APIs"
+  contactDetails:
+    name: "Sana Fondu - QA Lead"
+    email: "abc@loan_prod.com"
+  onCallSupport:
+    - (999) 888-8529
+    - (11111) 222-7410

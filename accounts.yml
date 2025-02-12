@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+   message: "Hello from Accounts Service"
+   contactDetails:
+     name: "Sana Fondu"
+     email: "abc@xyz.com"
+   onCallSupport:
+     - (999) 99999
+     - (11111) 11125
