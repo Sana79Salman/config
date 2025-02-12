@@ -1,9 +1,9 @@
 build:
   version: "1.2"
 loans:
-  message: "Hello from Loans Service production APIs"
+  message: "Hello from Loans Service production APIs change"
   contactDetails:
-    name: "Sana Fondu - QA Lead"
+    name: "Sana Fondu - QA Lead change"
     email: "abc@loan_prod.com"
   onCallSupport:
     - (999) 888-8529
