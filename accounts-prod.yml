@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello from Accounts Service PROD APIs"
+  message: "Hello from Accounts Service production APIs"
   contactDetails:
     name: "Sana Fondu - Product Owner"
     email: "{cipher}5c724ae5dbfe4262e1fdb970f5a9ab031e8ad4b0b44b9e0c9edcffc370a5d88a"
