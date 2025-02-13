@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to Accounts Service QA APIs on git"
+  message: "Welcome to Accounts Service QualityAnalysis APIs on git"
   contactDetails:
     name: "Sana Fondu - QA Lead"
     email: "{cipher}99fa83a0f668ab1cb7f2fc0c60b494d25475e316ad630c0aaf157b6a3e262e01ccb94e37683ecdb34abc37cf51f378e6"
