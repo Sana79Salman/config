@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 cards:
-  message: "Cards PROD APIs"
+  message: "Cards PROD webhook APIs"
   contactDetails:
     name: "Sana - PROD Lead"
     email: "abc@card_prod.com"
