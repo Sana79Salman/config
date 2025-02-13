@@ -1,7 +1,7 @@
 build:
   version: "1.2"
 loans:
-  message: "Hello from Loans Service production APIs change"
+  message: "Hello from Loans Service produc APIs change"
   contactDetails:
     name: "Sana Fondu - QA Lead change"
     email: "abc@loan_prod.com"
