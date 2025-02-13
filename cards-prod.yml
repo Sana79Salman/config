@@ -4,7 +4,7 @@ build:
 cards:
   message: "Cards PROD webhook APIs"
   contactDetails:
-    name: "Sana - PROD Lead"
+    name: "Sana - PROD WBHK Lead"
     email: "abc@card_prod.com"
   onCallSupport:
     - (999) 888-88881
