@@ -4,7 +4,7 @@ build:
 cards:
   message: "Cards PROD APIs"
   contactDetails:
-    name: "Sana Fondu - PROD Lead"
+    name: "Sana - PROD Lead"
     email: "abc@card_prod.com"
   onCallSupport:
     - (999) 888-88881
