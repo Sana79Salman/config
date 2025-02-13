@@ -1,7 +1,7 @@
 build:
   version: "1.2"
 loans:
-  message: "Loans PROD API"
+  message: "Loans PROD Webhook API"
   contactDetails:
     name: "Sana Fondu - PROD Lead"
     email: "abc@loan_prod.com"
