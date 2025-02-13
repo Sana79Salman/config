@@ -1,9 +1,9 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to Accounts QA APIs"
+  message: "Accounts QA APIs"
   contactDetails:
-    name: "Sana Fondu - QA Admin"
+    name: "Sana Fondu - QA Lead"
     email: "{cipher}99fa83a0f668ab1cb7f2fc0c60b494d25475e316ad630c0aaf157b6a3e262e01ccb94e37683ecdb34abc37cf51f378e6"
   onCallSupport:
     - (999) 888-99991
