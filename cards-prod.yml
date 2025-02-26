@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 cards:
-  message: "Cards PROD webhook APIs"
+  message: "Cards Docker API webhook APIs"
   contactDetails:
     name: "Sana - PROD WBHK Lead"
     email: "abc@card_prod.com"
